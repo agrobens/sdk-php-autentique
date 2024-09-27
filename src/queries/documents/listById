@@ -4,6 +4,7 @@
     refusable
     sortable
     created_at
+    sandbox
     files { original signed }
     signatures {
         public_id
